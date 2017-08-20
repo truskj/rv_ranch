@@ -3,9 +3,9 @@
 ;--------------------------
 
 NAME            'Farmstead Creek'         ;The name of the level as seen in-game
-STARTPOS        0 0 0           ;Start position of the car
+STARTPOS        -3133 -70 7393  ;Start position of the car
 STARTPOSREV     0 0 0           ;Start position of the car
-STARTROT        0.125            ;Start rotation of the car (0 - 1)
+STARTROT        0.745            ;Start rotation of the car (0 - 1)
 STARTROTREV     0.75            ;Start rotation of the car (0 - 1)
 FARCLIP         94000           ;Far clipping distance (draw distance)
 FOGSTART        93000           ;Fog start (slightly less than FARCLIP)
